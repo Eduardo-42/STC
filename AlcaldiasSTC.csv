@@ -1,0 +1,165 @@
+SISTEMA,NOMBRE,LINEA,EST,CVE_EST,CVE_EOD17,TIPO,ALCALDIAS,AnO
+"STC Metro",Aculco,8,13,STC0813,5134,Intermedia,IZTAPALAPA,1994
+"STC Metro",Allende,2,12,STC0212,5041,Intermedia,CUAUHTEMOC,1970
+"STC Metro",Apatlaco,8,12,STC0812,5135,Intermedia,IZTAPALAPA,1994
+"STC Metro","Aquiles Serdan",7,2,STC0702,5120,Intermedia,AZCAPOTZALCO,1988
+"STC Metro",Aragon,5,9,STC0509,5096,Intermedia,GUSTAVO_A_MADERO,1981
+"STC Metro",Atlalilco,12,12,STC1212,5021,Transbordo,IZTAPALAPA,2012
+"STC Metro",Atlalilco,8,15,STC0815,5136,Transbordo,IZTAPALAPA,1994
+"STC Metro",Auditorio,7,8,STC0708,5121,Intermedia,MIGUEL_HIDALGO,1984
+"STC Metro","Autobuses del Norte",5,3,STC0503,5097,Intermedia,GUSTAVO_A_MADERO,1982
+"STC Metro",Balbuena,1,5,STC0105,5001,Intermedia,VENUSTIANO_CARRANZA,1969
+"STC Metro",Balderas,1,13,STC0113,5002,Transbordo,CUAUHTEMOC,1969
+"STC Metro",Balderas,3,9,STC0309,5065,Transbordo,CUAUHTEMOC,1970
+"STC Metro","Barranca del Muerto",7,14,STC0714,5122,Terminal,ALVARO_OBREGON,1985
+"STC Metro","Bellas Artes",2,11,STC0211,5042,Transbordo,CUAUHTEMOC,1970
+"STC Metro","Bellas Artes",8,2,STC0802,5137,Transbordo,CUAUHTEMOC,1994
+"STC Metro",Bondojito,4,8,STC0408,5086,Intermedia,GUSTAVO_A_MADERO,1981
+"STC Metro","Boulevard Puerto Aereo",1,4,STC0104,5003,Intermedia,VENUSTIANO_CARRANZA,1969
+"STC Metro","Calle 11",12,8,STC1208,5022,Intermedia,IZTAPALAPA,2012
+"STC Metro",Camarones,7,3,STC0703,5123,Intermedia,AZCAPOTZALCO,1988
+"STC Metro","Canal del Norte",4,6,STC0406,5087,Intermedia,VENUSTIANO_CARRANZA,1981
+"STC Metro",Candelaria,1,8,STC0108,5004,Transbordo,VENUSTIANO_CARRANZA,1969
+"STC Metro",Candelaria,4,4,STC0404,5088,Transbordo,VENUSTIANO_CARRANZA,1981
+"STC Metro","Centro Medico",3,12,STC0312,5066,Transbordo,CUAUHTEMOC,1980
+"STC Metro","Centro Medico",9,9,STC0909,5153,Transbordo,CUAUHTEMOC,1987
+"STC Metro","Cerro de la Estrella",8,17,STC0817,5138,Intermedia,IZTAPALAPA,1994
+"STC Metro","Ciudad Deportiva",9,3,STC0903,5156,Intermedia,VENUSTIANO_CARRANZA,1987
+"STC Metro","Colegio Militar",2,6,STC0206,5044,Intermedia,MIGUEL_HIDALGO,1970
+"STC Metro","Constitucion de 1917",8,19,STC0819,5140,Terminal,IZTAPALAPA,1994
+"STC Metro",Constituyentes,7,9,STC0709,5124,Intermedia,MIGUEL_HIDALGO,1985
+"STC Metro",Consulado,4,7,STC0407,5089,Transbordo,GUSTAVO_A_MADERO,1981
+"STC Metro",Consulado,5,7,STC0507,5098,Transbordo,GUSTAVO_A_MADERO,1981
+"STC Metro",Copilco,3,20,STC0320,5067,Intermedia,COYOACAN,1983
+"STC Metro",Coyoacan,3,17,STC0317,5068,Intermedia,BENITO_JUAREZ,1983
+"STC Metro",Coyuya,8,10,STC0810,5141,Intermedia,IZTACALCO,1994
+"STC Metro","Cuatro Caminos",2,1,STC0201,5045,Terminal,MIGUEL_HIDALGO,1984
+"STC Metro",Cuauhtemoc,1,14,STC0114,5006,Intermedia,CUAUHTEMOC,1969
+"STC Metro",Cuitlahuac,2,4,STC0204,5046,Intermedia,MIGUEL_HIDALGO,1970
+"STC Metro",Culhuacan,12,11,STC1211,5023,Intermedia,IZTAPALAPA,2012
+"STC Metro",Chabacano,2,16,STC0216,5043,Transbordo,CUAUHTEMOC,1970
+"STC Metro",Chabacano,8,7,STC0807,5139,Transbordo,CUAUHTEMOC,1994
+"STC Metro",Chabacano,9,7,STC0907,5154,Transbordo,CUAUHTEMOC,1987
+"STC Metro",Chapultepec,1,17,STC0117,5005,Intermedia,CUAUHTEMOC,1969
+"STC Metro",Chilpancingo,9,10,STC0910,5155,Intermedia,CUAUHTEMOC,1988
+"STC Metro","Deportivo 18 de Marzo",3,2,STC0302,5069,Transbordo,GUSTAVO_A_MADERO,1979
+"STC Metro","Deportivo 18 de Marzo",6,9,STC0609,5111,Transbordo,GUSTAVO_A_MADERO,1986
+"STC Metro","Division del Norte",3,15,STC0315,5071,Intermedia,BENITO_JUAREZ,1980
+"STC Metro",Doctores,8,5,STC0805,5142,Intermedia,CUAUHTEMOC,1994
+"STC Metro","Eduardo Molina",5,8,STC0508,5099,Intermedia,GUSTAVO_A_MADERO,1981
+"STC Metro","Eje Central",12,15,STC1215,5024,Intermedia,BENITO_JUAREZ,2012
+"STC Metro","El Rosario",6,1,STC0601,5112,"Terminal / Transbordo",AZCAPOTZALCO,1983
+"STC Metro","El Rosario",7,1,STC0701,5125,"Terminal / Transbordo",AZCAPOTZALCO,1988
+"STC Metro",Ermita,12,14,STC1214,5025,Transbordo,BENITO_JUAREZ,2012
+"STC Metro",Ermita,2,22,STC0222,5047,Transbordo,BENITO_JUAREZ,1970
+"STC Metro","Escuadron 201",8,14,STC0814,5143,Intermedia,IZTAPALAPA,1994
+"STC Metro","Etiopia/Plaza de la Transparencia",3,13,STC0313,5081,Intermedia,BENITO_JUAREZ,1980
+"STC Metro",Eugenia,3,14,STC0314,5072,Intermedia,BENITO_JUAREZ,1980
+"STC Metro","Ferreria/Arena Ciudad de Mexico",6,4,STC0604,5109,Intermedia,AZCAPOTZALCO,1983
+"STC Metro","Fray Servando",4,3,STC0403,5090,Intermedia,VENUSTIANO_CARRANZA,1982
+"STC Metro",Garibaldi/Lagunilla,8,1,STC0801,5144,"Terminal / Transbordo",CUAUHTEMOC,1994
+"STC Metro","General Anaya",2,23,STC0223,5048,Intermedia,COYOACAN,1970
+"STC Metro","Gomez Farias",1,3,STC0103,5007,Intermedia,VENUSTIANO_CARRANZA,1969
+"STC Metro",Guerrero,3,6,STC0306,5073,Transbordo,CUAUHTEMOC,1970
+"STC Metro",Hangares,5,12,STC0512,5100,Intermedia,VENUSTIANO_CARRANZA,1981
+"STC Metro",Hidalgo,2,10,STC0210,5049,Transbordo,CUAUHTEMOC,1970
+"STC Metro",Hidalgo,3,7,STC0307,5074,Transbordo,CUAUHTEMOC,1970
+"STC Metro","Hospital 20 de Noviembre",12,18,STC1218,5026,Intermedia,BENITO_JUAREZ,2012
+"STC Metro","Hospital General",3,11,STC0311,5075,Intermedia,CUAUHTEMOC,1970
+"STC Metro","Indios Verdes",3,1,STC0301,5076,Terminal,GUSTAVO_A_MADERO,1979
+"STC Metro","Instituto del Petroleo",5,2,STC0502,5101,Transbordo,GUSTAVO_A_MADERO,1982
+"STC Metro","Instituto del Petroleo",6,7,STC0607,5113,Transbordo,GUSTAVO_A_MADERO,1983
+"STC Metro",Insurgentes,1,15,STC0115,5008,Intermedia,CUAUHTEMOC,1969
+"STC Metro","Insurgentes Sur",12,19,STC1219,5027,Intermedia,BENITO_JUAREZ,2012
+"STC Metro","Isabel La Catolica",1,11,STC0111,5009,Intermedia,CUAUHTEMOC,1969
+"STC Metro",Iztacalco,8,11,STC0811,5145,Intermedia,IZTACALCO,1994
+"STC Metro",Iztapalapa,8,16,STC0816,5146,Intermedia,IZTAPALAPA,1994
+"STC Metro",Jamaica,4,2,STC0402,5091,Transbordo,VENUSTIANO_CARRANZA,1982
+"STC Metro",Jamaica,9,6,STC0906,5157,Transbordo,VENUSTIANO_CARRANZA,1987
+"STC Metro",Juanacatlan,1,18,STC0118,5010,Intermedia,MIGUEL_HIDALGO,1970
+"STC Metro",Juarez,3,8,STC0308,5077,Intermedia,CUAUHTEMOC,1970
+"STC Metro","La Raza",3,4,STC0304,5078,Transbordo,GUSTAVO_A_MADERO,1978
+"STC Metro","La Raza",5,4,STC0504,5102,Transbordo,GUSTAVO_A_MADERO,1982
+"STC Metro","La Viga",8,8,STC0808,5147,Intermedia,CUAUHTEMOC,1994
+"STC Metro","La Villa/Basilica",6,10,STC0610,5114,Intermedia,GUSTAVO_A_MADERO,1986
+"STC Metro","Lazaro Cardenas",9,8,STC0908,5158,Intermedia,CUAUHTEMOC,1987
+"STC Metro",Lindavista,6,8,STC0608,5115,Intermedia,GUSTAVO_A_MADERO,1986
+"STC Metro","Lomas Estrella",12,9,STC1209,5028,Intermedia,IZTAPALAPA,2012
+"STC Metro","Martin Carrera",4,10,STC0410,5092,"Terminal / Transbordo",GUSTAVO_A_MADERO,1981
+"STC Metro","Martin Carrera",6,11,STC0611,5116,"Terminal / Transbordo",GUSTAVO_A_MADERO,1986
+"STC Metro",Merced,1,9,STC0109,5011,Intermedia,VENUSTIANO_CARRANZA,1969
+"STC Metro",Mexicaltzingo,12,13,STC1213,5029,Intermedia,IZTAPALAPA,2012
+"STC Metro","Miguel angel de Quevedo",3,19,STC0319,5079,Intermedia,COYOACAN,1983
+"STC Metro",Misterios,5,5,STC0505,5103,Intermedia,GUSTAVO_A_MADERO,1982
+"STC Metro",Mixcoac,12,20,STC1220,5030,"Terminal / Transbordo",BENITO_JUAREZ,2012
+"STC Metro",Mixcoac,7,13,STC0713,5126,Transbordo,BENITO_JUAREZ,1985
+"STC Metro",Mixhiuca,9,5,STC0905,5159,Intermedia,VENUSTIANO_CARRANZA,1987
+"STC Metro",Moctezuma,1,6,STC0106,5012,Intermedia,VENUSTIANO_CARRANZA,1969
+"STC Metro",Morelos,4,5,STC0405,5093,Transbordo,VENUSTIANO_CARRANZA,1981
+"STC Metro",Nativitas,2,20,STC0220,5050,Intermedia,BENITO_JUAREZ,1970
+"STC Metro","Ninos Heroes/Poder Judicial CDMX",3,10,STC0310,5080,Intermedia,CUAUHTEMOC,1970
+"STC Metro",Nopalera,12,4,STC1204,5031,Intermedia,TLAHUAC,2012
+"STC Metro",Normal,2,7,STC0207,5051,Intermedia,MIGUEL_HIDALGO,1970
+"STC Metro","Norte 45",6,5,STC0605,5117,Intermedia,AZCAPOTZALCO,1983
+"STC Metro",Obrera,8,6,STC0806,5148,Intermedia,CUAUHTEMOC,1994
+"STC Metro",Observatorio,1,20,STC0120,5013,Terminal,ALVARO_OBREGON,1972
+"STC Metro",Oceania,5,10,STC0510,5104,Transbordo,VENUSTIANO_CARRANZA,1981
+"STC Metro",Olivos,12,5,STC1205,5032,Intermedia,TLAHUAC,2012
+"STC Metro",Panteones,2,2,STC0202,5052,Intermedia,MIGUEL_HIDALGO,1984
+"STC Metro",Pantitlan,1,1,STC0101,5014,"Terminal / Transbordo",VENUSTIANO_CARRANZA,1984
+"STC Metro",Pantitlan,5,13,STC0513,5105,"Terminal / Transbordo",VENUSTIANO_CARRANZA,1981
+"STC Metro",Pantitlan,9,1,STC0901,5160,"Terminal / Transbordo",VENUSTIANO_CARRANZA,1987
+"STC Metro","Parque de los Venados",12,16,STC1216,5033,Intermedia,BENITO_JUAREZ,2012
+"STC Metro",Patriotismo,9,11,STC0911,5161,Intermedia,CUAUHTEMOC,1988
+"STC Metro","Periferico Oriente",12,7,STC1207,5034,Intermedia,IZTAPALAPA,2012
+"STC Metro","Pino Suarez",1,10,STC0110,5015,Transbordo,CUAUHTEMOC,1969
+"STC Metro","Pino Suarez",2,14,STC0214,5053,Transbordo,CUAUHTEMOC,1970
+"STC Metro",Polanco,7,7,STC0707,5127,Intermedia,MIGUEL_HIDALGO,1984
+"STC Metro",Politecnico,5,1,STC0501,5106,Terminal,GUSTAVO_A_MADERO,1982
+"STC Metro",Popotla,2,5,STC0205,5054,Intermedia,MIGUEL_HIDALGO,1970
+"STC Metro",Portales,2,21,STC0221,5055,Intermedia,BENITO_JUAREZ,1970
+"STC Metro",Potrero,3,3,STC0303,5082,Intermedia,GUSTAVO_A_MADERO,1979
+"STC Metro",Puebla,9,2,STC0902,5162,Intermedia,VENUSTIANO_CARRANZA,1987
+"STC Metro",Refineria,7,4,STC0704,5128,Intermedia,AZCAPOTZALCO,1988
+"STC Metro",Revolucion,2,9,STC0209,5056,Intermedia,CUAUHTEMOC,1970
+"STC Metro","Salto del Agua",1,12,STC0112,5016,Transbordo,CUAUHTEMOC,1969
+"STC Metro","Salto del Agua",8,4,STC0804,5149,Transbordo,CUAUHTEMOC,1994
+"STC Metro","San Andres Tomatlan",12,10,STC1210,5035,Intermedia,IZTAPALAPA,2012
+"STC Metro","San Antonio",7,12,STC0712,5129,Intermedia,BENITO_JUAREZ,1985
+"STC Metro","San Antonio Abad",2,15,STC0215,5057,Intermedia,CUAUHTEMOC,1970
+"STC Metro","San Cosme",2,8,STC0208,5058,Intermedia,CUAUHTEMOC,1970
+"STC Metro","San Joaquin",7,6,STC0706,5130,Intermedia,MIGUEL_HIDALGO,1984
+"STC Metro","San Juan de Letran",8,3,STC0803,5150,Intermedia,CUAUHTEMOC,1994
+"STC Metro","San Lazaro",1,7,STC0107,5017,Transbordo,VENUSTIANO_CARRANZA,1969
+"STC Metro","San Pedro de Los Pinos",7,11,STC0711,5131,Intermedia,BENITO_JUAREZ,1985
+"STC Metro","Santa Anita",4,1,STC0401,5094,"Terminal / Transbordo",IZTACALCO,1982
+"STC Metro","Santa Anita",8,9,STC0809,5151,Transbordo,IZTACALCO,1994
+"STC Metro",Sevilla,1,16,STC0116,5018,Intermedia,CUAUHTEMOC,1969
+"STC Metro",Tacuba,2,3,STC0203,5059,Transbordo,MIGUEL_HIDALGO,1970
+"STC Metro",Tacuba,7,5,STC0705,5132,Transbordo,MIGUEL_HIDALGO,1984
+"STC Metro",Tacubaya,1,19,STC0119,5019,Transbordo,MIGUEL_HIDALGO,1970
+"STC Metro",Tacubaya,7,10,STC0710,5133,Transbordo,MIGUEL_HIDALGO,1985
+"STC Metro",Tacubaya,9,12,STC0912,5163,"Terminal / Transbordo",MIGUEL_HIDALGO,1988
+"STC Metro",Talisman,4,9,STC0409,5095,Intermedia,GUSTAVO_A_MADERO,1981
+"STC Metro",Tasquena,2,24,STC0224,5060,Terminal,COYOACAN,1970
+"STC Metro","Terminal Aerea",5,11,STC0511,5107,Intermedia,VENUSTIANO_CARRANZA,1981
+"STC Metro",Tezonco,12,6,STC1206,5036,Intermedia,IZTAPALAPA,2012
+"STC Metro",Tezozomoc,6,2,STC0602,5118,Intermedia,AZCAPOTZALCO,1983
+"STC Metro",Tlahuac,12,1,STC1201,5037,Terminal,TLAHUAC,2012
+"STC Metro",Tlaltenco,12,2,STC1202,5038,Intermedia,TLAHUAC,2012
+"STC Metro",Tlatelolco,3,5,STC0305,5083,Intermedia,CUAUHTEMOC,1970
+"STC Metro","UAM Azcapotzalco",6,3,STC0603,5110,Intermedia,AZCAPOTZALCO,1983
+"STC Metro",UAM-I,8,18,STC0818,5152,Intermedia,IZTAPALAPA,1994
+"STC Metro",Universidad,3,21,STC0321,5084,Terminal,COYOACAN,1983
+"STC Metro","Valle Gomez",5,6,STC0506,5108,Intermedia,GUSTAVO_A_MADERO,1982
+"STC Metro",Vallejo,6,6,STC0606,5119,Intermedia,AZCAPOTZALCO,1983
+"STC Metro",Velodromo,9,4,STC0904,5164,Intermedia,VENUSTIANO_CARRANZA,1987
+"STC Metro",Viaducto,2,17,STC0217,5061,Intermedia,BENITO_JUAREZ,1970
+"STC Metro","Villa de Cortes",2,19,STC0219,5062,Intermedia,BENITO_JUAREZ,1970
+"STC Metro","Viveros/Derechos Humanos",3,18,STC0318,5070,Intermedia,ALVARO_OBREGON,1983
+"STC Metro",Xola,2,18,STC0218,5063,Intermedia,BENITO_JUAREZ,1970
+"STC Metro",Zapata,12,17,STC1217,5039,Transbordo,BENITO_JUAREZ,2012
+"STC Metro",Zapata,3,16,STC0316,5085,Transbordo,BENITO_JUAREZ,1980
+"STC Metro",Zapotitlan,12,3,STC1203,5040,Intermedia,TLAHUAC,2012
+"STC Metro",Zaragoza,1,2,STC0102,5020,Intermedia,VENUSTIANO_CARRANZA,1969
+"STC Metro",Zocalo/Tenochtitlan,2,13,STC0213,5064,Intermedia,CUAUHTEMOC,1970
